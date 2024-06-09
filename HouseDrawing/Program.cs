@@ -42,7 +42,6 @@ namespace HouseDrawing
             string filePath = Path.Combine(desktopPath, fileName);
             bmp.Save(filePath, ImageFormat.Png);
             
-            // Uvolnění prostředků
             bmp.Dispose();
             
             AnsiConsole.MarkupLine($"[green]Soubor byl uložen na plochu jako [bold]'[underline]{fileName}[/]'[/][/]");
