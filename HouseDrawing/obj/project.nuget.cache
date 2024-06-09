@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FaCRZpuAG+26Z0OBl2syn03rLM4/vQdYiO3JsJWNYd2Cbdt0gPgmhcYO7oG4tvCPlZRuXNm118G/4zBunVhUhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skymmel\\RiderProjects\\HouseDrawing\\HouseDrawing\\HouseDrawing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skymmel\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0-preview.4.24266.19\\microsoft.win32.systemevents.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "C:\\Users\\Skymmel\\.nuget\\packages\\spectre.console\\0.49.2-preview.0.7\\spectre.console.0.49.2-preview.0.7.nupkg.sha512",
+    "C:\\Users\\Skymmel\\.nuget\\packages\\system.drawing.common\\9.0.0-preview.4.24267.1\\system.drawing.common.9.0.0-preview.4.24267.1.nupkg.sha512"
+  ],
+  "logs": []
+}
